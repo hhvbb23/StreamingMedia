@@ -1,4 +1,4 @@
 # > myTV SUPER
-USER-AGENT,mytv*,Streaming
-DOMAIN-SUFFIX,mytvsuper.com,Streaming
-DOMAIN-SUFFIX,tvb.com,Streaming
+USER-AGENT,mytv*,
+DOMAIN-SUFFIX,mytvsuper.com,
+DOMAIN-SUFFIX,tvb.com
